@@ -10,4 +10,4 @@ firebase.initializeApp({
     messagingSenderId: "1026956636891",
     appId: "1:1026956636891:web:1943f2b2a33e5b0e6d12fe",
     measurementId: "G-RFEBDWVFEQ"
-  };
+  )};
